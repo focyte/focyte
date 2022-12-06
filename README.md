@@ -4,10 +4,11 @@
 
 <p style="text-align: center;">
 - Hi, I’m John
+  </p>
 - I am a research scientist with 15+ years experience working in a laboratory
 - Recently, I started using R to process and analyse data
 - Through collaborations with data scientists I have tried some feature
-</p>
+
 
 <!---
 focyte/focyte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
