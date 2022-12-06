@@ -2,14 +2,12 @@
 <img src="https://focyte.com/wp-content/uploads/2022/08/JFoster_Headshot-1466x2048.jpg" alt="drawing" width="200"/>
 </p>
 
-<t align="center">
+<p style="text-align: center;"
 - Hi, I’m John
-</t>
-<t align="center">
 - I am a research scientist with 15+ years experience working in a laboratory
 - Recently, I started using R to process and analyse data
 - Through collaborations with data scientists I have tried some feature
-</t>
+</p>
 
 <!---
 focyte/focyte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
