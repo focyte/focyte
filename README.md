@@ -3,7 +3,7 @@
 </p>
 
 - Hi, I’m John @Focyte
-- I am a research scientist with 15+ years experience working in a laboratory
+- I am a research scientist with 15+ years laboratory experience including cancer and immunology
 - Recently, I started using R to process and analyse data
 - Through collaborations with data scientists I have also tried some feature selection methods
 - The next steps for me are to learn to code in Python and to refresh my mathematics knowledge
