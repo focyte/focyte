@@ -4,6 +4,8 @@
 
 <t align="center">
 - Hi, I’m John
+</t>
+<t align="center">
 - I am a research scientist with 15+ years experience working in a laboratory
 - Recently, I started using R to process and analyse data
 - Through collaborations with data scientists I have tried some feature
