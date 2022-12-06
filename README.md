@@ -1,10 +1,12 @@
+<p align="center">
 <img src="https://focyte.com/wp-content/uploads/2022/08/JFoster_Headshot-1466x2048.jpg" alt="drawing" width="200"/>
+</p>
 
-- 👋 Hi, I’m @focyte
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I’m John
+I am a research scientist with 15+ years experience working in a laboratory
+Recently, I started using R to process and analyse data
+Through collaborations with data scientists I have tried some feature
+
 
 <!---
 focyte/focyte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
