@@ -3,7 +3,7 @@
 </p>
 
 - Hi, I’m John @Focyte
-- A research scientist with 15+ years laboratory experience in the fields of cancer, immunology, and RNA biology
+- A research scientist with 15+ years laboratory experience in the fields of [cancer, immunology, and RNA biology](https://scholar.google.com/citations?user=Dy0vQoMAAAAJ&hl=en)
 - Recently, I started using R to process and analyse data
 - Through collaborations with data scientists I have also tried some feature selection methods and machine learning
 - The next steps for me are to:
