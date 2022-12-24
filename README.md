@@ -8,8 +8,8 @@
 - Through collaborations with data scientists I have also tried some feature selection methods and machine learning
 - The next steps for me are to:
 - 1. Become comfortable working with Linux command line and bash scripts
-- 2. Learn to code in Python so I can further explore machine learning
-- 3. to refresh my mathematics knowledge
+- 2. Learn to code in Python so I can further explore machine learning tools
+- 3. Refresh my mathematics knowledge
 
 
 <!---
