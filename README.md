@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://focyte.com/wp-content/uploads/2022/08/JFoster_Headshot-1466x2048.jpg" alt="drawing" width="200"/>
+<img src="https://www.focyte.com/wp-content/uploads/elementor/thumbs/IMG_20220823_135053-scaled-q43bebwdc6js8b4pi322v90jf0iuwfnitq8x6aoc9g.jpg" alt="drawing" width="200"/>
 </p>
 
 - Hi, I’m John @Focyte
