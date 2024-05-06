@@ -3,14 +3,10 @@
 </p>
 
 - Hi, I’m John @Focyte
-- A research scientist with 15+ years laboratory experience in the fields of [cancer, immunology, and RNA biology](https://scholar.google.com/citations?user=Dy0vQoMAAAAJ&hl=en)
-- Recently, I started using R to process and analyse data
+- A research scientist with 15+ years experience in the fields of [cancer, immunology, and RNA biology](https://scholar.google.com/citations?user=Dy0vQoMAAAAJ&hl=en)
+- I use R and Python to process and analyse genomic data
+- Using Linux Command Line tools and Bash scripting I have worked with Next Generation Sequencing (NGS) pipeliens
 - Through collaborations with data scientists I have also tried some feature selection methods and machine learning
-- The next steps for me are to:
-- 1. Become comfortable working with Linux command line and bash scripts
-- 2. Learn to code in Python so I can further explore machine learning tools
-- 3. Refresh my mathematics knowledge
-
 
 <!---
 focyte/focyte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
